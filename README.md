@@ -1,4 +1,4 @@
-# one-dark-theme-for-firefox
+# One Dark Theme for Firefox
 The Atom One Dark Theme for Firefox. 
 
 For anyone who wants to modify it from source, then modify the manifest.json. I'm not experienced with making Firefox Add-Ons and Themes though and made it with Firefox Colors.
